@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.list-wrap{
+  position: relative;
+}
+.total{
+  position: absolute;
+  top: 90%;
+  left: 45%;
+}
